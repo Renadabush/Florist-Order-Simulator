@@ -117,10 +117,6 @@ This project emphasizes several core OOP concepts:
 
 This is a standard C++ console application (developed as a Visual Studio solution).
 
-**Using Visual Studio:**
-1. Open the `.sln` file in Visual Studio.
-2. Build the solution (Ctrl+Shift+B).
-3. Run (F5 / Ctrl+F5).
 
 **Using g++ (Linux/macOS):**
 ```bash
